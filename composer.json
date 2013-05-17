@@ -1,0 +1,7 @@
+{
+	"name": "deftx/gump",
+	"description": "Composer package for Wixel/GUMP"
+	"require": {
+		"php": ">=5.2.0"
+	}
+}
